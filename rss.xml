@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Blake Denman]]></title>
         <description><![CDATA[Blake Denman]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/blake-denman/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Jan 2016 22:44:22 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 01 Jan 2016 22:46:40 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/blake-denman/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Is This Thing On?]]></title>
             <description><![CDATA[<article><h1>Is This Thing On?</h1><p>It's January 1st, 2016. I'm at our new office working on our goals and plans for 2016. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4d7abae9a936864eceeacd0a5fbdfb2cd28e9788.png"></article>]]></description>
-            <link>undefinedis-this-thing-on/index.html</link>
+            <link>https://thegrid.ai/blake-denman/is-this-thing-on/index.html</link>
             <guid isPermaLink="false">877701cf-5329-4e5e-af81-0770d3903f65</guid>
-            <pubDate>Fri, 01 Jan 2016 22:44:14 GMT</pubDate>
+            <pubDate>Fri, 01 Jan 2016 22:46:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
